@@ -1,0 +1,17 @@
+
+p{
+	color: orange;
+	text-align: center;
+	font-size: 20px;
+}
+#cat-count,#cat-count1{
+	
+	background: orange;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	width: 40px;
+	height: 40px;
+}
+
+
