@@ -1,3 +1,4 @@
+//Js file for Cat Clicker
 $(document).ready(function() {
 	var count = 0;
 	var count1 = 0;
